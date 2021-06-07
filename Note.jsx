@@ -2,7 +2,7 @@ import React from "react";
 
 function Note() {
   return (
-    <div>
+    <div classname="note">
       <h1>Javascript and React.js</h1>
       <p>
         This was an amazing bootcamp taken up by Shaurya Sinha .We covered
